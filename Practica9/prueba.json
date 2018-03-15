@@ -1,0 +1,96 @@
+{
+  "categorias": [
+    {
+      "category": {
+        "title": "Anonymous category",
+        "productos": []
+      }
+    },
+    {
+      "category": {
+        "title": "Juegos",
+        "productos": []
+      }
+    },
+    {
+      "category": {
+        "title": "Moviles",
+        "productos": [
+          {
+            "producto": {
+              "serial": "1235",
+              "name": "Iphone X",
+              "description": "El best phone ",
+              "price": "980",
+              "image": [
+                "images/productos/iphone-x.jpg"
+              ],
+              "tipo": "smartphone"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "tiendas": [
+    {
+      "shop": {
+        "cif": "1111",
+        "name": "Anonymous shop",
+        "image": [],
+        "productos": []
+      }
+    },
+    {
+      "shop": {
+        "cif": "1237",
+        "name": "Worten",
+        "description": null,
+        "image": [
+          "images/worten.jpg"
+        ],
+        "productos": [
+          {
+            "producto": {
+              "serial": "1234",
+              "name": "Titanic",
+              "description": "Mu bonico",
+              "price": "34",
+              "image": [
+                "images/productos/titanic.jpg"
+              ],
+              "tipo": "dvd"
+            },
+            "stock": "12"
+          },
+          {
+            "producto": {
+              "serial": "1235",
+              "name": "Iphone X",
+              "description": "El best phone ",
+              "price": "980",
+              "image": [
+                "images/productos/iphone-x.jpg"
+              ],
+              "tipo": "smartphone"
+            },
+            "stock": "12"
+          },
+          {
+            "producto": {
+              "serial": "445",
+              "name": "Smart TV LG",
+              "description": "Una tele buena",
+              "price": "540",
+              "image": [
+                "images/productos/smart-tv-lg.jpg"
+              ],
+              "tipo": "tv"
+            },
+            "stock": "39"
+          }
+        ]
+      }
+    }
+  ]
+}
